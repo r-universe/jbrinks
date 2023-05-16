@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "demcon"]
+	path = demcon
+	url = https://gitlab.com/dante-sttr/demcon
+	shallow = true
+	registered = true
